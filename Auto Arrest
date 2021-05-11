@@ -1,0 +1,4 @@
+--Credits in Readme
+getgenv().fast = true
+
+loadstring(game:HttpGet("https://pastebin.com/9YecCj44",true))()
