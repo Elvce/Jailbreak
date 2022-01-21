@@ -1,2 +1,0 @@
-# Jailbreak
-Just jailbreak scripts
